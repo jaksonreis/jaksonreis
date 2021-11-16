@@ -1,7 +1,7 @@
 ### Olá 👋
 
 - 🔭 I’m currently working with software development 
-- 🌱 I’m currently learning HTML, CSS, JAVASCRIPT, SQL, NODE, REACT
+- 🌱 I’m currently learning HTML, CSS, JAVASCRIPT, SQL, NODE JS, REACT
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: @jakson reis
